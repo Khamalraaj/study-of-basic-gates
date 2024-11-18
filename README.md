@@ -69,11 +69,14 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![WhatsApp Image 2024-11-12 at 14 18 06_2184a0a5](https://github.com/user-attachments/assets/4d88ff7d-e57c-432a-b22b-26665f4fb101)
 
-**RTL realization Output:** 
+**Output:** 
+![Screenshot 2024-10-29 144056](https://github.com/user-attachments/assets/1260991d-782a-4e0f-b7a7-626169df0f67)
 
 **RTL**
+![Screenshot 2024-10-29 142619](https://github.com/user-attachments/assets/9390158e-0f96-4d58-b08d-6f1b5c7b8bf6)
 
 **Result:**
-
+That's the Enable switch, if it's 1 the output will be from the first 8. If it's 0 the output will be from the second 8.
 
