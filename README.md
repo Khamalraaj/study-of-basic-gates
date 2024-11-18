@@ -66,7 +66,23 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:Khamalraaj.S RegisterNumber:24901015 
+ Developed by:Khamalraaj.S 
+ RegisterNumber:24901015 
+
+
+ ```
+module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
+input a,b;
+output c1,c2,c3,c4,c5,c6,c7;
+not g1(c1,a);
+and g2(c2,a,b);
+or g3(c3,a,b);
+nand g4(c4,a,b);
+nor g5(c5,a,b);
+xor g6(c6,a,b);
+xnor g7(c7,a,b);
+endmodule
+```
  
 **Logic symbol & Truthtable**
 
@@ -80,5 +96,5 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![Screenshot 2024-10-29 142619](https://github.com/user-attachments/assets/9390158e-0f96-4d58-b08d-6f1b5c7b8bf6)
 
 **Result:**
-Successfully done the study and verification of the truth table of logic gates in Quartus II using Verilog programmingThat's the Enable switch, if it's 1 the output will be from the first 8. If it's 0 the output will be from the second 8.
+Successfully done the study and verification of the truth table of logic gates in Quartus II using Verilog programming.
 
