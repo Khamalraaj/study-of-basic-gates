@@ -92,11 +92,14 @@ endmodule
 
 ![WhatsApp Image 2024-11-12 at 14 18 06_2184a0a5](https://github.com/user-attachments/assets/4d88ff7d-e57c-432a-b22b-26665f4fb101)
 
+**RTL**
+![Screenshot 2024-10-29 142619](https://github.com/user-attachments/assets/9390158e-0f96-4d58-b08d-6f1b5c7b8bf6)
+
+
+
 **Output:** 
 ![Screenshot 2024-10-29 144056](https://github.com/user-attachments/assets/1260991d-782a-4e0f-b7a7-626169df0f67)
 
-**RTL**
-![Screenshot 2024-10-29 142619](https://github.com/user-attachments/assets/9390158e-0f96-4d58-b08d-6f1b5c7b8bf6)
 
 **Result:**
 Successfully done the study and verification of the truth table of logic gates in Quartus II using Verilog programming.
